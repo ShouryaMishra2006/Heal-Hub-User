@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Card, CardContent } from "./components/Card.jsx";
 import { Button } from "./components/button.jsx";
+//changed
 import { Camera, Search, History } from "lucide-react";
 import { AppContext } from "../context/AppContext.jsx";
 export default function PrescriptionScanner() {
